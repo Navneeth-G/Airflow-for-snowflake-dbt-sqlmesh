@@ -44,7 +44,7 @@ cd docker-data-engineering-starter
 
 ### 2. (Optional) Run the Folder Structure Script
 ```bash
-python setup_folders.py
+python create_folder_structure.py
 ```
 
 This creates folders like:
