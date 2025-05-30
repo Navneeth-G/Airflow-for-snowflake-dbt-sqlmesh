@@ -1,6 +1,5 @@
 ### Read this
 
-```markdown
 # 🚀 Dockerized Data Engineering Starter Kit
 
 This repository is a **starter template** for data engineers who work with **dbt**, **SQLMesh**, **Apache Airflow**, and **Snowflake**, but are new to **Docker**.  
